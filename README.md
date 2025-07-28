@@ -2,7 +2,7 @@
 __This is the repository for Volcanic Dark: A Minecraft resource pack that tries to both look good and *actually* be dark.__
 
 ----
-If you've come here to ask me to add support a specific mod, feel free to file an [issue](https://github.com/TheBlondBoy/volcanic-dark/issues)! Just a fair warning, I won't support *every* mod out there; Just the ones that are notable and have some popularity.
+If you've come here to ask me to add support a specific mod, feel free to file an [issue](https://github.com/TheBlondBoy/volcanic-dark/issues)! Just a fair warning, I won't support *every* mod out there; Just the ones that are notable and have some popularity. Inspired by the block of obsidian.
 
 ----
 [Volcanic Dark on Modrinth](https://modrinth.com/resourcepack/volcanic-dark)
