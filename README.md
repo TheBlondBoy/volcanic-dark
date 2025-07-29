@@ -7,4 +7,4 @@ If you've come here to ask me to add support a specific mod, feel free to file a
 ----
 [Volcanic Dark on Modrinth](https://modrinth.com/resourcepack/volcanic-dark)
 
-Volcanic Dark on CurseForge (Im working on it, oight mate? [' > ,]z)
+[Volcanic Dark on CurseForge](https://www.curseforge.com/minecraft/texture-packs/volcanic-dark)
