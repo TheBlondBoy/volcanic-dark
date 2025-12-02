@@ -1,0 +1,4 @@
+{
+	condition: "volcanicOutline",
+	fallback: "assets/minecraft/items/outline_black_concrete_powder.json"
+}

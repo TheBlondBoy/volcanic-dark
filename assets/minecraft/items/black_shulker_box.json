@@ -1,0 +1,33 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "model": "minecraft:item/full_block_outline",
+        "property": "minecraft:display_context",
+        "cases": [
+          {
+            "when": "gui",
+            "model": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/full_block_outline"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:empty"
+        }
+      },
+      {
+        "type": "minecraft:special",
+        "base": "minecraft:item/black_shulker_box",
+        "model": {
+          "type": "minecraft:shulker_box",
+          "texture": "minecraft:shulker_black"
+        }
+      }
+    ]
+  },
+  "oversized_in_gui": true
+}

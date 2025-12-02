@@ -1,0 +1,15 @@
+{
+    id: "volcanicDark",
+    version: 13,
+    capabilities: ["FileFilter", "DirFilter"],
+    conf: {
+		volcanicCoreShaders: true,
+		volcanicOutline: true,
+        volcanicHearts: true,
+        volcanicHunger: true,
+		volcanicArmor: true,
+		volcanicBreath: true,
+		volcanicExperience: true,
+		volcanicHotbar: true
+    }
+}
