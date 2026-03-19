@@ -6,7 +6,7 @@
       "max_inclusive": 64
     },
 	"min_format": 15,
-	"max_format": 75,
+	"max_format": 84,
     "description": "Obsidian inspired and minimal-ish UI"
   },
   "overlays": {
@@ -15,37 +15,46 @@
         "directory": "new_smithing",
         "formats": {
           "min_inclusive": 15,
-          "max_inclusive": 75
+          "max_inclusive": 84
         },
 			"min_format": 15,
-			"max_format": 75
+			"max_format": 84
       },
       {
         "directory": "post_slicer",
         "formats": {
           "min_inclusive": 18,
-          "max_inclusive": 75
+          "max_inclusive": 84
         },
 			"min_format": 18,
-			"max_format": 75
+			"max_format": 84
       },
       {
         "directory": "chase_the_skies",
         "formats": {
           "min_inclusive": 63,
-          "max_inclusive": 75
+          "max_inclusive": 84
         },
 			"min_format": 63,
-			"max_format": 75
+			"max_format": 84
       },
       {
         "directory": "mounts_of_mayhem",
 		"formats": {
           "min_inclusive": 70,
-          "max_inclusive": 75
+          "max_inclusive": 84
         },
 			"min_format": 70,
-			"max_format": 75
+			"max_format": 84
+      },
+      {
+        "directory": "tiny_takeover",
+		"formats": {
+          "min_inclusive": 76,
+          "max_inclusive": 84
+        },
+			"min_format": 76,
+			"max_format": 84
       }
     ]
   }
